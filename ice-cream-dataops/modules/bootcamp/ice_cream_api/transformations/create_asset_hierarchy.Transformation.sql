@@ -9,4 +9,4 @@ select
       node_reference('icapi_dm_space', `parent_external_id`)
   ) as parent
   from
-  `ice-cream-factory-db`.`assets
+  `ice-cream-factory-db`.`assets`
